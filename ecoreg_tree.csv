@@ -1,0 +1,66 @@
+"";"Ecoreg_ID";"Ecorefion_name";"Biome_ID";"Biome_name";"n_trees";"NA.";"NA..1";"NA..2"
+"1";80402;"Atlantic mixed forests";4;"Temperate Broadleaf and Mixed Forests";2;NA;NA;NA
+"2";80404;"Balkan mixed forests";4;"Temperate Broadleaf and Mixed Forests";106;NA;NA;NA
+"3";80405;"Baltic mixed forests";4;"Temperate Broadleaf and Mixed Forests";3;NA;NA;NA
+"4";80408;"Caucasus mixed forests";4;"Temperate Broadleaf and Mixed Forests";2;NA;NA;NA
+"5";80409;"Celtic broadleaf forests";4;"Temperate Broadleaf and Mixed Forests";20;NA;NA;NA
+"6";80411;"Central China loess plateau mixed forests";4;"Temperate Broadleaf and Mixed Forests";26;NA;NA;NA
+"7";80412;"Central European mixed forests";4;"Temperate Broadleaf and Mixed Forests";950;NA;NA;NA
+"8";80414;"Changbai Mountains mixed forests";4;"Temperate Broadleaf and Mixed Forests";13;NA;NA;NA
+"9";80419;"East European forest steppe";4;"Temperate Broadleaf and Mixed Forests";423;NA;NA;NA
+"10";80421;"English Lowlands beech forests";4;"Temperate Broadleaf and Mixed Forests";21;NA;NA;NA
+"11";80426;"Manchurian mixed forests";4;"Temperate Broadleaf and Mixed Forests";2;NA;NA;NA
+"12";80428;"Nihonkai montane deciduous forests";4;"Temperate Broadleaf and Mixed Forests";104;NA;NA;NA
+"13";80431;"Pannonian mixed forests";4;"Temperate Broadleaf and Mixed Forests";71;NA;NA;NA
+"14";80435;"Rodope montane mixed forests";4;"Temperate Broadleaf and Mixed Forests";31;NA;NA;NA
+"15";80436;"Sarmatic mixed forests";4;"Temperate Broadleaf and Mixed Forests";355;NA;NA;NA
+"16";80440;"Taiheiyo evergreen forests";4;"Temperate Broadleaf and Mixed Forests";40;NA;NA;NA
+"17";80441;"Taiheiyo montane deciduous forests";4;"Temperate Broadleaf and Mixed Forests";7;NA;NA;NA
+"18";80443;"Ussuri broadleaf and mixed forests";4;"Temperate Broadleaf and Mixed Forests";139;NA;NA;NA
+"19";80444;"Western Siberian hemiboreal forests";4;"Temperate Broadleaf and Mixed Forests";215;NA;NA;NA
+"20";80445;"Western European broadleaf forests";4;"Temperate Broadleaf and Mixed Forests";257;NA;NA;NA
+"21";80446;"Zagros Mountains forest steppe";4;"Temperate Broadleaf and Mixed Forests";1;NA;NA;NA
+"22";80501;"Alps conifer and mixed forests";5;"Temperate Coniferous Forests";127;NA;NA;NA
+"23";80504;"Carpathian montane forests";5;"Temperate Coniferous Forests";421;NA;NA;NA
+"24";80505;"Da Hinggan-Dzhagdy Mountains conifer forests";5;"Temperate Coniferous Forests";3;NA;NA;NA
+"25";80510;"Hokkaido montane conifer forests";5;"Temperate Coniferous Forests";31;NA;NA;NA
+"26";80511;"Honshu alpine conifer forests";5;"Temperate Coniferous Forests";4;NA;NA;NA
+"27";80518;"Qionglai-Minshan conifer forests";5;"Temperate Coniferous Forests";2;NA;NA;NA
+"28";80519;"Sayan montane conifer forests";5;"Temperate Coniferous Forests";18;NA;NA;NA
+"29";80601;"East Siberian taiga";6;"Boreal Forests/Taiga";222;NA;NA;NA
+"30";80605;"Northeast Siberian taiga";6;"Boreal Forests/Taiga";158;NA;NA;NA
+"31";80608;"Scandinavian and Russian taiga";6;"Boreal Forests/Taiga";1197;NA;NA;NA
+"32";80609;"Trans-Baikal conifer forests";6;"Boreal Forests/Taiga";57;NA;NA;NA
+"33";80610;"Ural montane forests and tundra";6;"Boreal Forests/Taiga";647;NA;NA;NA
+"34";80611;"West Siberian taiga";6;"Boreal Forests/Taiga";524;NA;NA;NA
+"35";80804;"Daurian forest steppe";8;"Temperate Grasslands, Savannas, and Shrublands";23;NA;NA;NA
+"36";80809;"Kazakh forest steppe";8;"Temperate Grasslands, Savannas, and Shrublands";679;NA;NA;NA
+"37";80810;"Kazakh steppe";8;"Temperate Grasslands, Savannas, and Shrublands";813;NA;NA;NA
+"38";80811;"Kazakh upland";8;"Temperate Grasslands, Savannas, and Shrublands";391;NA;NA;NA
+"39";80813;"Mongolian-Manchurian grassland";8;"Temperate Grasslands, Savannas, and Shrublands";3;NA;NA;NA
+"40";80814;"Pontic steppe";8;"Temperate Grasslands, Savannas, and Shrublands";1003;NA;NA;NA
+"41";80817;"South Siberian forest steppe";8;"Temperate Grasslands, Savannas, and Shrublands";352;NA;NA;NA
+"42";80907;"Suiphun-Khanka meadows and forest meadows";9;"Flooded Grasslands and Savannas";1;NA;NA;NA
+"43";81001;"Altai alpine meadow and tundra";10;"Montane Grasslands and Shrublands";2;NA;NA;NA
+"44";81002;"Central Tibetan Plateau alpine steppe";10;"Montane Grasslands and Shrublands";1;NA;NA;NA
+"45";81019;"Tian Shan montane steppe and meadows";10;"Montane Grasslands and Shrublands";15;NA;NA;NA
+"46";81103;"Cherskii-Kolyma mountain tundra";11;"Tundra";17;NA;NA;NA
+"47";81114;"Yamal-Gydan tundra";11;"Tundra";106;NA;NA;NA
+"48";81211;"Italian sclerophyllous and semi-deciduous forests";12;"Mediterranean Forests, Woodlands, and Scrub";8;NA;NA;NA
+"49";NA;NA;NA;NA;9613;NA;NA;NA
+"50";NA;NA;NA;NA;NA;NA;NA;NA
+"51";NA;NA;NA;NA;NA;NA;NA;NA
+"52";NA;NA;NA;NA;NA;NA;NA;NA
+"53";NA;NA;NA;NA;NA;NA;NA;NA
+"54";NA;NA;NA;NA;NA;NA;NA;NA
+"55";NA;NA;NA;NA;NA;NA;NA;NA
+"56";NA;NA;NA;NA;NA;NA;NA;NA
+"57";NA;NA;NA;NA;NA;NA;NA;NA
+"58";NA;NA;NA;NA;NA;NA;NA;NA
+"59";NA;NA;NA;NA;NA;NA;NA;NA
+"60";NA;NA;NA;NA;NA;NA;NA;NA
+"61";NA;NA;NA;NA;NA;NA;NA;NA
+"62";NA;NA;NA;NA;NA;NA;NA;NA
+"63";NA;NA;NA;NA;NA;NA;NA;NA
+"64";NA;NA;NA;NA;NA;NA;NA;NA
+"65";NA;NA;NA;NA;NA;NA;NA;NA
