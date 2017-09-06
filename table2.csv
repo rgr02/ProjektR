@@ -1,0 +1,26 @@
+"";"Field";"Number";"Unique";"Median";"Min";"Max"
+"Species";"Tree species (Latin name)";9613;90;NA;NA;NA
+"Tree.age";"Age (years) ";9575;NA;36;3;430
+"DBH";"Diameter at breast height—DBH (cm)";9518;NA;12;0;98
+"H.tree";"Height of the tree (m)";8625;NA;11,6;0,13;44,2
+"Hcr";"Height to crown base (m)";5774;NA;5,3;0;25,8
+"Dcr";"Diameter (maximal) of the crown (m)";4091;NA;2,16;0,02;14,3
+"Vtot";"Stem over bark volume (dm3)";7169;NA;68,4;0,02;6984
+"Vbark";"Stem bark volume (dm3)";5404;NA;11;0,01;678
+"Origin";"Origin (natural or planted)";9530;4;NA;NA;NA
+"Pst";"Stem over bark";7466;NA;29,43;0;4122
+"Pbark";"Bark of stem";4799;NA;4,9;0;280
+"Pbr";"Crown wood over bark";8862;NA;3,86;0;1091,8
+"Pf";"Leaves & needles";8896;NA;2,04;0;305
+"Pabo";"Above ground";7474;NA;36,59;0;5089
+"Proot";"Stump & roots of trees";1746;NA;4,95;0;901
+"Ptot";"Total tree";1712;NA;28,78;0;5134,8
+"Country";"Country code (ISO ALPHA-3)";9613;21;NA;NA;NA
+"Latitude";"Latitude";9613;NA;54,67;31,5;69,88
+"Longitude";"Longitude";9613;NA;55,82;-2,48;155
+"Altitude..m.s.l..";"Altitude (m a.s.l.)";310;34;NA;NA;NA
+"Tree.number...ha";"Number of trees per hectare";8592;NA;2003;69;9e+05
+"Reference";"Reference";9613;159;NA;NA;NA
+"Notes";"Notes";430;9;NA;NA;NA
+"Ecoregion";"Ecoregion";9613;NA;80608;80402;81211
+"ID_Plot";"Link to the sample plot (ID of the sample plot dataset)";6280;NA;5760,5;192;12263

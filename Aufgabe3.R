@@ -10,7 +10,6 @@ data <- cbind(data, roots)
 data <- cbind(data, plot.db[,26:31])
 data <- cbind(data, plot.db[,33:44])
 
-
 values <- sapply(data, summary.stats)
 
 # Building the table

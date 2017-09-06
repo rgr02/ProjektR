@@ -24,8 +24,8 @@ library(maps)
 mapWorld <- borders("world", colour="gray", fill="gray", alpha = 0.3)
 world.map <- ggplot() + 
   mapWorld +
-  geom_point(aes(plot.db$Longitude, plot.db$Latitude), col = "green", alpha = 0.3) +
-  geom_point(aes(tree.db$Longitude, tree.db$Latitude), col = "red", alpha = 0.3) +
+  geom_point(aes(plot.db$Longitude, plot.db$Latitude), col = "green", alpha = 0.3, size = 0.7) +
+  geom_point(aes(tree.db$Longitude, tree.db$Latitude), col = "red", alpha = 0.3, size = 0.7) +
   ggtitle("Location of Sample Trees and Plots") +
   xlab("Longitude") +
   ylab("Latitude") +

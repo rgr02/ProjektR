@@ -6,6 +6,8 @@ species <- c("Abies","Acacia","Acer","Alnus","Betula","Carpinus","Castanopsis","
              "Cupressus","Cyclobalanopsis","Eucalyptus","Fagus","Fokienia","Fraxinus","Larix","Picea","Pinus","Populus","Pseudotsuga",
              "Quercus","Robinia","Salix","Tilia") 
 
+
+
 plot.db$Species2 <- "Other.Species"
 tree.db$Species2 <- "Other.Species"
 
@@ -16,7 +18,7 @@ tree.db$Species2 <- "Other.Species"
 for(i in 1:length(species)) {
    plot.db[grep(paste0(species[i]),plot.db$Tree.species),]$Species2 <- paste0(species[i])
    #tree.db[grep(paste0(species[i]),tree.db$Species, ignore.case = T),]$Species2 <- paste0(species[i])  
-   print(paste0(species[i]))
+   #print(paste0(species[i]))
 }
 
 # Species not in plot
@@ -29,7 +31,7 @@ species <- c("Abies","Acer","Alnus","Betula","Carpinus","Chamaecyparis","Choseni
 for(i in 1:length(species)) {
   #plot.db[grep(paste0(species[i]),plot.db$Tree.species, ignore.case = T),]$Species2 <- paste0(species[i])
   tree.db[grep(paste0(species[i]),tree.db$Species),]$Species2 <- paste0(species[i])  
-  print(paste0(species[i]))
+  #print(paste0(species[i]))
 }
 
 # Species not in tree

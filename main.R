@@ -5,6 +5,7 @@ setwd("C:/Users/Rudi/Dropbox/RCoding/ProjektR")
 
 # install.packages("ggplot2", dependencies = T)
 # install.packages("dplyr", dependencies = T)
+# install.packages("tidyr", dependencies = T)
 
 source("util.R")
 source("multiplot.R")
@@ -16,4 +17,5 @@ source("Aufgabe4.R")
 source("Aufgabe5.R")
 source("Aufgabe6.R")
 source("Aufgabe7.R")
+source("Aufgabe8.R")
 source("Aufgabe9.R")

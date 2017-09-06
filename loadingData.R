@@ -1,5 +1,3 @@
-# Clear workspace
-rm(list = ls())
 setwd("C:/Users/Rudi/Dropbox/RCoding/ProjektR")
 
 library(dplyr)
@@ -16,12 +14,19 @@ sum(is.na(plot.db$ID)) # No missing key Variable
 
 columns <- which(sapply(plot.db, is.numeric)) # selecting all numeric columns
 sapply(plot.db[,columns], summary) # summary stats for numeric variables
+
 # Imputing 0 for NA
-for(i in columns){
-  logic <- is.na(plot.db[,i])
-  plot.db[which(logic),i] <- 0
-  print(i)
-}
+
+# Unnecessary Loop where I replaced NA Values with 0 because 0 is a neutral
+# Element in Addition (for mean function)
+# Calculating the median is biased with this imputation
+# In Databases, null values are an undifined state which should be avoided
+# and I thought it might be good use in this case too
+
+# for(i in columns){
+#   logic <- is.na(plot.db[,i])
+#   plot.db[which(logic),i] <- 0
+# }
 
 
 tree.db <- read.csv2("tree_db.csv", header = T)
@@ -35,13 +40,17 @@ sum(is.na(tree.db$ID_Plot))
 ecoreg.plot <- read.csv2("ecoreg_plot.csv", header = T)
 ecoreg.plot <- ecoreg.plot[,2:6]
 ecoreg.plot <- na.omit(ecoreg.plot)
-T %in% sapply(ecoreg.plot, is.na) # ecoreg.plot complete dataset
+
+# T %in% sapply(ecoreg.plot, is.na) # ecoreg.plot complete dataset
+# Correction
+any(sapply(ecoreg.plot, is.na))
 names(ecoreg.plot) <- c("Ecoreg.ID", "Ecoregion.name", "Biome.ID", "Biome.name","n_Plots")
 
 ecoreg.tree <- read.csv2("ecoreg_tree.csv", header = T)
 ecoreg.tree <- ecoreg.tree[,2:6]
 ecoreg.tree <- na.omit(ecoreg.tree)
-T %in% sapply(ecoreg.tree, is.na) # ecoreg.tree complete dataset
+# Correction also here
+any(sapply(ecoreg.tree, is.na)) # ecoreg.tree complete dataset
 names(ecoreg.tree) <- c("Ecoreg.ID", "Ecoregion.name", "Biome.ID", "Biome.name","n_Trees")
 
 # Every Ecoregion in tree is in plot but not otherwise

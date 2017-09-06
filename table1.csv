@@ -1,0 +1,38 @@
+"";"Field";"Number";"Unique";"Median";"Min";"Max"
+"1";"Dominant tree species (Latin name)";"10351";"465";NA;NA;NA
+"2";"Dominant tree species code";"10351";NA;"104";"101";"1012"
+"3";"Tree species composition";"9819";"1016";NA;NA;NA
+"4";"Age structure of stands (even  or uneven aged)";"700";"5";NA;NA;NA
+"5";"Origin (natural or planted)";"9860";"6";NA;NA;NA
+"6";"Site index";"7324";"18";NA;NA;NA
+"7";"Mean stand age (year)";"10232";"298";NA;NA;NA
+"8";"Average height of the stand height of a tree with average DBH on the plot";"10351";NA;"10.7";"0";"65.1"
+"9";"Average DBH diameter at breast height (1.3 m above ground)";"10351";NA;"10.9";"0";"114"
+"10";"Number of trees per hectare ";"10351";NA;"1290";"0";"10530000"
+"11";"Relative stocking ratio of basal area of a plot to basal area of the normal stand";"10351";NA;"0.46";"0";"2"
+"12";"Basal area total cross sectional area of live trees at breast height in a plot Growing stock volume of stems of all living trees";"10351";NA;"0";"0";"57.7"
+"13";"Stem over bark";"10351";NA;"155";"0";"3831"
+"14";"Bark of stem";"10351";NA;"68.9";"0";"1280.28"
+"15";"Crown wood over bark";"10351";NA;"0";"0";"74.7"
+"16";"Leaves & needles";"10351";NA;"11.2";"0";"214"
+"17";"Stump & roots of trees";"10351";NA;"4.9";"0";"103.5"
+"18";"Fine roots with several thresholds";"4035";"2341";NA;NA;NA
+"19";"Undergrowth & shrubs above ground";"10351";NA;"0";"0";"16.68"
+"20";"Undergrowth & shrubs including roots";"10351";NA;"0";"0";"73"
+"21";"Green forest ï¬‚oor above ground";"10351";NA;"0";"0";"78.7"
+"22";"Green forest ï¬‚oor including roots";"10351";NA;"0";"0";"65.1"
+"23";"Dead organic matter";"10351";NA;"0";"0";"35.23"
+"24";"Snags";"10351";NA;"0";"0";"74.6"
+"25";"Logs";"10351";NA;"0";"0";"74.4"
+"26";"Dead branches of living trees";"10351";NA;"0";"0";"79.03"
+"27";"Dead roots";"10351";NA;"0";"0";"35.25"
+"28";"Litter";"10351";NA;"0";"0";"193.07"
+"29";"Country code (ISO ALPHA 3)";"10351";"43";NA;NA;NA
+"30";"Latitude (8 N to 72 N)";"10351";NA;"51.33";"7.58";"72.47"
+"31";"Longitude (8 W to 160 E)";"10351";NA;"70.17";"-45.97";"160.67"
+"32";"Altitude (m a.s.l.)";"3880";"915";NA;NA;NA
+"33";"Year of measurement";"10351";NA;"1982";"0";"2014"
+"34";"Number of trees selected for destructive sampling";"1705";"37";NA;NA;NA
+"35";"Leaf area index of trees";"10351";NA;"0";"0";"41.78"
+"36";"Ecoregion";"10351";NA;"80436";"40106";"81330"
+"37";"Reference";"10351";"1482";NA;NA;NA
